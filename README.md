@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=muftiarfan&show_icons=true&theme=tokyonight&count_private=true">
-</div>
-
+- ⚡ Fun fact: It is not a bug, it is a feature.
 <!--
 **muftiarfan/muftiarfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
